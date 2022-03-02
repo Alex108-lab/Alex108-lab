@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex108-lab
 - 👀 I’m interested in Python Nodejs c c++
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amonterrosa203@gmail.com
 
